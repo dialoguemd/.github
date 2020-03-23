@@ -18,14 +18,6 @@
 <!--- You can just drag-n-drop the pictures from you computer here. -->
 ![Screenshot](https://images-na.ssl-images-amazon.com/images/I/81-yKbVND-L.png)
 
-## Type of changes
-<!--- What types of changes does your code introduce? -->
-<!--- Put an `x` in all the boxes that apply. -->
-- [ ] Chore <!--- non-essential manipulations that do not influence user experience in any way -->
-- [ ] Bug fix <!--- non-breaking change which fixes an issue -->
-- [ ] New feature <!--- non-breaking change which adds functionality -->
-- [ ] Breaking change <!--- fix or feature that would cause existing functionality to change -->
-
 ## Related JIRA stories
 <!--- Pull requests should be related to open JIRA stories. -->
 <!--- Please put all related JIRA story IDs is square brackets here: -->
