@@ -1,6 +1,6 @@
 <!--- PULL REQUEST CHECKLIST -->
 <!--- Please go through these steps before you submit a PR. -->
-<!--- 1. Make sure your branch has a descriptive name that starts with either `fix/`, `feat/` or `chore/` prefix. Good examples are: `fix/signun-issue`, `feat/email-verification` or `chore/update-ci-script`. -->
+<!--- 1. Make sure your branch has a descriptive name that starts with either `fix/`, `feat/` or `chore/` prefix. Good examples are: `fix/signup-issue`, `feat/email-verification` or `chore/update-ci-script`. -->
 <!--- 2. Make sure you have a descriptive PR title that: -->
 <!---     a. Follows Conventional Commits guidelines: https://www.conventionalcommits.org/en/ -->
 <!---     b. Includes JIRA story ID is square brackets at the end of commit message. -->
