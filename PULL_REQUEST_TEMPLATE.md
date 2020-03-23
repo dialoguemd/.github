@@ -5,7 +5,7 @@
 <!---     a. Follows Conventional Commits guidelines: https://www.conventionalcommits.org/en/ -->
 <!---     b. Includes JIRA story ID is square brackets at the end of commit message. -->
 <!---     Examples are: `fix: signup error [DIA-1234]` or `feat(lang): add German language [SOL-567]`. -->
-<!--- 3. Make sure you've populated all the PR fields below (Description, REalted JIRA issues, etc.). Remove sections if they do not apply. -->
+<!--- 3. Make sure you've populated all the PR fields below (Description, Related JIRA issues, etc.). Remove sections if they do not apply. -->
 <!--- 4. If you changes are still WIP and are not ready for review please open a DRAFT PR: https://github.blog/2019-02-14-introducing-draft-pull-requests/ -->
 <!--- 5. Add reviewers to you pull request. It's better to add whole teams rather than specific people. I.e.: `@dialoguemd/maestro` or `@dialoguemd/s-team`. -->
 <!--- 6. Post a link to your pull request in the corresponding Slack channel to draw attention to it. -->
