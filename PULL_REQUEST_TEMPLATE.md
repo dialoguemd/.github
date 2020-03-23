@@ -2,7 +2,7 @@
 <!--- Please go through these steps before you submit a PR. -->
 <!--- 1. Make sure your branch has a descriptive name that starts with either `fix/`, `feat/` or `chore/` prefix. Good examples are: `fix/signup-issue`, `feat/email-verification` or `chore/update-ci-script`. -->
 <!--- 2. Make sure you have a descriptive PR title that: -->
-<!---     a. Follows Conventional Commits guidelines: https://www.conventionalcommits.org/en/ -->
+<!---     a. Follows Dialogue's Commit Convention: https://www.notion.so/godialogue/Commit-Convention-84fd9a4c149e48c998d760f1c9176df0 -->
 <!---     b. Includes JIRA story ID is square brackets at the end of commit message. -->
 <!---     Examples are: `fix: signup error [DIA-000]` or `feat(lang): add German language [SOL-000]`. -->
 <!--- 3. Make sure you've populated all the PR fields below (Description, Related JIRA issues, etc.). Remove sections if they do not apply. -->
