@@ -1,15 +1,3 @@
-<!--- PULL REQUEST CHECKLIST -->
-<!--- Please go through these steps before you submit a PR. -->
-<!--- 1. Make sure your branch has a descriptive name that starts with either `fix/`, `feat/` or `chore/` prefix. Good examples are: `fix/signup-issue`, `feat/email-verification` or `chore/update-ci-script`. -->
-<!--- 2. Make sure you have a descriptive PR title that: -->
-<!---     a. Follows Dialogue's Commit Convention: https://www.notion.so/godialogue/Commit-Convention-84fd9a4c149e48c998d760f1c9176df0 -->
-<!---     b. Includes JIRA story ID is square brackets at the end of commit message. -->
-<!---     Examples are: `fix: signup error [DIA-000]` or `feat(lang): add German language [SOL-000]`. -->
-<!--- 3. Make sure you've populated all the PR fields below (Description, Related JIRA issues, etc.). Remove sections if they do not apply. -->
-<!--- 4. If you changes are still WIP and are not ready for review please open a DRAFT PR: https://github.blog/2019-02-14-introducing-draft-pull-requests/ -->
-<!--- 5. Add reviewers to you pull request. It's better to add whole teams rather than specific people. I.e.: `@dialoguemd/maestro` or `@dialoguemd/s-team`. -->
-<!--- 6. Post a link to your pull request in the corresponding Slack channel to draw attention to it. -->
-
 ## Description
 <!--- Describe your changes in detail. -->
 
@@ -28,3 +16,13 @@
 <!--- What other PRs this pull request depends on? -->
 <!--- Please put references to other PRs here: -->
 - dialoguemd/{repository}#{pr-number}
+
+## Pull request checklist
+
+[ ] PR branch has a descriptive name that starts with `fix/`, `feat/` or `chore/` <!--- `fix/signup-issue`, `feat/email-verification` or `chore/update-ci-script` -->
+[ ] PR title follows [Commit Convention](https://www.notion.so/godialogue/Commit-Convention-84fd9a4c149e48c998d760f1c9176df0) <!--- `feat(lang): add German language` -->
+[ ] PR title ends with a JIRA story ID  <!--- `fix: signup error [DIA-000]` -->
+[ ] All PR sections above are populated <!--- Remove sections if they do not apply -->
+[ ] [Draft PR](https://github.blog/2019-02-14-introducing-draft-pull-requests) is opened for WIP changes <!--- If required -->
+[ ] PR reviewers are assigned <!--- It's better to add whole teams rather than specific people; i.e.: `@dialoguemd/maestro` or `@dialoguemd/s-team` -->
+[ ] Link to a PR is posted to the corresponding Slack channel <!--- This will quickly draw attention to your PR -->
