@@ -4,7 +4,7 @@
 <!--- 2. Make sure you have a descriptive PR title that: -->
 <!---     a. Follows Conventional Commits guidelines: https://www.conventionalcommits.org/en/ -->
 <!---     b. Includes JIRA story ID is square brackets at the end of commit message. -->
-<!---     Examples are: `fix: signup error [DIA-1234]` or `feat(lang): add German language [SOL-567]`. -->
+<!---     Examples are: `fix: signup error [DIA-000]` or `feat(lang): add German language [SOL-000]`. -->
 <!--- 3. Make sure you've populated all the PR fields below (Description, Related JIRA issues, etc.). Remove sections if they do not apply. -->
 <!--- 4. If you changes are still WIP and are not ready for review please open a DRAFT PR: https://github.blog/2019-02-14-introducing-draft-pull-requests/ -->
 <!--- 5. Add reviewers to you pull request. It's better to add whole teams rather than specific people. I.e.: `@dialoguemd/maestro` or `@dialoguemd/s-team`. -->
@@ -28,11 +28,11 @@
 
 ## Related JIRA stories
 <!--- Pull requests should be related to open JIRA stories. -->
-<!--- Please add a link to the stories here: -->
-- [JIRA-ID](https://dialoguemd.atlassian.net/browse/JIRA-ID)
+<!--- Please put all related JIRA story IDs is square brackets here: -->
+- [DIA-000]
+- [SOL-000]
 
 ## Related changes
 <!--- What other PRs this pull request depends on? -->
-<!--- Please put direct link to other PRs here: -->
-- https://github.com/dialoguemd/REPOSITORY/pull/NUMBER
-
+<!--- Please put references to other PRs here: -->
+- dialoguemd/{repository}#{pr-number}
