@@ -1,11 +1,7 @@
 ## Description
 <!-- Short summary of your changes. -->
-<!-- Leave notes for code reviewers here, if needed. -->
-
-## Screenshots
-<!-- Put screenshots of the changes being introduced. -->
-<!-- You can just drag-n-drop the pictures from you computer here. -->
-![Screenshot](https://images-na.ssl-images-amazon.com/images/I/81-yKbVND-L.png)
+<!-- Add screenshots if needed (simple copy/paste or drag-n-drop will work). -->
+<!-- You can also leave notes for code reviewers here. -->
 
 ## Related JIRA issues
 <!-- Pull requests should be related to open JIRA issues. -->
