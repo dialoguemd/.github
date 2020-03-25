@@ -1,5 +1,6 @@
 ## Description
-<!-- Describe your changes in detail. -->
+<!-- Short summary of your changes. -->
+<!-- Leave notes for code reviewers here, if needed. -->
 
 ## Screenshots
 <!-- Put screenshots of the changes being introduced. -->
