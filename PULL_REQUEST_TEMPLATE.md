@@ -5,7 +5,7 @@
 
 ## Related JIRA issues
 <!-- Pull requests should be related to open JIRA issues. -->
-<!-- Please put all related JIRA issue IDs is square brackets here: -->
+<!-- Please put all related JIRA issue IDs in square brackets here: -->
 <!-- * [DIA-123] -->
 <!-- * [SOL-456] -->
 
