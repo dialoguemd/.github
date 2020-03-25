@@ -4,19 +4,19 @@
 
 ## Screenshots
 <!-- Put screenshots of the changes being introduced. -->
-<!-- You can just drag-n-drop the pictures from you computer here: -->
+<!-- You can just drag-n-drop the pictures from you computer here. -->
 ![Screenshot](https://images-na.ssl-images-amazon.com/images/I/81-yKbVND-L.png)
 
 ## Related JIRA issues
 <!-- Pull requests should be related to open JIRA issues. -->
 <!-- Please put all related JIRA issue IDs is square brackets here: -->
-- [DIA-000]
-- [SOL-000]
+<!-- * [DIA-123] -->
+<!-- * [SOL-456] -->
 
 ## Related changes
 <!-- What other PRs does this PR depend on? -->
 <!-- Please put references to other PRs here: -->
-- dialoguemd/{repository}#{pr-number}
+<!-- * dialoguemd/{repository}#{pr-number}  -->
 
 ## Checklist
 
