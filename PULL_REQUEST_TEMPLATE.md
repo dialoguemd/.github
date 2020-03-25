@@ -16,7 +16,6 @@
 
 ## Checklist
 
-- [ ] PR branch has a descriptive name that starts with `fix/`, `feat/` or `chore/` <!-- `fix/signup-issue`, `feat/email-verification` or `chore/update-ci-script` -->
 - [ ] PR title follows [Commit Convention](https://www.notion.so/godialogue/Commit-Convention-84fd9a4c149e48c998d760f1c9176df0) <!-- `feat(lang): add German language` -->
 - [ ] PR title ends with a JIRA issue ID  <!-- `fix: signup error [DIA-000]` -->
 - [ ] All relevant PR sections are populated, irrelevant ones are removed <!-- Those sections help reviewers better understand what the PR is about. -->
