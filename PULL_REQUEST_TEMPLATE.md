@@ -25,4 +25,4 @@
 - [ ] All PR sections above are populated <!-- Remove sections if they do not apply -->
 - [ ] [Draft PR](https://github.blog/2019-02-14-introducing-draft-pull-requests) is opened for WIP changes <!-- If required -->
 - [ ] PR reviewers are assigned <!-- It's better to add whole teams rather than specific people; i.e.: `@dialoguemd/maestro` or `@dialoguemd/s-team` -->
-- [ ] Link to a PR is posted to the corresponding Slack channel <!-- This will quickly draw attention to your PR -->
+- [ ] PR link is posted to the corresponding Slack channel <!-- This will quickly draw attention to your PR -->
