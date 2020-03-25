@@ -2,8 +2,8 @@
 <!-- Describe your changes in detail. -->
 
 ## Screenshots
-<!-- Put screenshots of the changed being introduced. -->
-<!-- You can just drag-n-drop the pictures from you computer here. -->
+<!-- Put screenshots of the changes being introduced. -->
+<!-- You can just drag-n-drop the pictures from you computer here: -->
 ![Screenshot](https://images-na.ssl-images-amazon.com/images/I/81-yKbVND-L.png)
 
 ## Related JIRA stories
