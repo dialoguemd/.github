@@ -13,7 +13,7 @@
 - [SOL-000]
 
 ## Related changes
-<!-- What other PRs this pull request depends on? -->
+<!-- What other PRs does this PR depend on? -->
 <!-- Please put references to other PRs here: -->
 - dialoguemd/{repository}#{pr-number}
 
