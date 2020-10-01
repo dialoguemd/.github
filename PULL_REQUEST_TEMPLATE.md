@@ -17,7 +17,7 @@
 - [ ] Relevant labels set 
 - [ ] Empty sections removed
 - [ ] [Draft PR] for WIP
-- [ ] Requested and notified to a team <!-- @dialoguemd/nexus -->
+- [ ] Requested and notified to a team
 
 
 <!-- don't remove -->
