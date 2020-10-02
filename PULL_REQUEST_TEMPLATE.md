@@ -6,7 +6,7 @@
 
 * [DIA-XXXXX]
 
-## Related PR
+## Related PRs
 
 <!-- * #123 -->
 <!-- * dialoguemd/scribe#1234  -->
@@ -17,7 +17,7 @@
 - [ ] Relevant labels set 
 - [ ] Empty sections removed
 - [ ] [Draft PR] for WIP
-- [ ] Requested and notified to a team
+- [ ] Requested from and notified to a team
 
 
 <!-- don't remove -->
