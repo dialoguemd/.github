@@ -17,7 +17,7 @@
 - [ ] Relevant labels set 
 - [ ] Empty sections removed
 - [ ] [Draft PR] for WIP
-- [ ] Requested from and notified to a team
+- [ ] Review requested from and notified to a team
 
 
 <!-- don't remove -->
