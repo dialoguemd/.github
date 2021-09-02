@@ -3,7 +3,7 @@
 
 ## Related JIRA issues
 
-* [DIA-XXXXX]
+* [DIA-XXXXX](https://dialoguemd.atlassian.net/browse/DIA-XXXXX)
 
 ## Related PRs
 
