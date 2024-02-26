@@ -6,7 +6,7 @@
 
 ## Solution
 
-<!-- How is this PR solves the problem? What are the rationales behind that solution?
+<!-- How does this PR solve the problem? What is the rationale behind the solution?
      List the changes, tradeoffs made and future work incoming if any. -->
 
 ## Related
