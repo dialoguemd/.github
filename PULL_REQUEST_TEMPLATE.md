@@ -2,7 +2,7 @@
 
 <!-- What is the problem this PR solves?
      Intent: Readers outside your team can understand without opening JIRA or Notion.
-             It fastens reviewing and future troubleshooting. -->
+             It accelerates code review and future troubleshooting. -->
 
 ## Solution
 
