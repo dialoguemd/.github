@@ -1,0 +1,24 @@
+# Notes:
+#
+# - Config syntax: https://github.com/Ezard/semantic-prs
+# - If a repo has their own `semantic.yml` config file, that file will be used instead of this one.
+#   - See https://github.com/Ezard/semantic-prs/issues/227 for more info.
+
+# Validate the PR title, and ignore all commit messages
+titleOnly: true
+
+# Provides a custom URL for the "Details" link, which appears next to the success/failure message from the app:
+targetUrl: https://www.notion.so/godialogue/Commit-Convention-84fd9a4c149e48c998d760f1c9176df0?pvs=4
+
+# The values allowed for the "type" part of the PR title/commit message.
+# e.g. for a PR title/commit message of "feat: add some stuff", the type would be "feat"
+types:
+  - chore
+  - fix
+  - feat
+  - test
+  - docs
+  - style
+  - refactor
+  - revert
+  - perf
