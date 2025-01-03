@@ -1,0 +1,15 @@
+# https://github.com/Ezard/semantic-prs
+# Always validate the PR title, and ignore the commits
+
+# Reference Dialogue Commit Convention:
+# https://www.notion.so/godialogue/Commit-Convention-84fd9a4c149e48c998d760f1c9176df0?pvs=4
+titleOnly: true
+types:
+  - chore
+  - fix
+  - feat
+  - test
+  - docs
+  - style
+  - refactor
+  - perf
